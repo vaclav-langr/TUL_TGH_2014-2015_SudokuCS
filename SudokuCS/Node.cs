@@ -10,21 +10,15 @@ namespace SudokuCS
 
         public Node()
         {
-            value = 0;
             possible = new HashSet<int>();
             adj = new HashSet<Node>();
-            CreatePossible();
+            ResetNode();
         }
 
         public void ResetNode()
         {
             value = 0;
             possible.Clear();
-            CreatePossible();
-        }
-
-        private void CreatePossible()
-        {
             for (int i = 1; i <= 9; i++)
             {
                 possible.Add(i);
