@@ -1,9 +1,0 @@
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\bin\Debug\SudokuCS.exe.config
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\bin\Debug\SudokuCS.exe
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\bin\Debug\SudokuCS.pdb
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\obj\Debug\SudokuCS.exe
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\obj\Debug\SudokuCS.pdb
-e:\documents\visual studio 2015\Projects\SudokuCS\SudokuCS\obj\Debug\SudokuCS.csprojResolveAssemblyReference.cache
-E:\Documents\git\sudokucs\SudokuCS\bin\Debug\SudokuCS.exe.config
-E:\Documents\git\sudokucs\SudokuCS\obj\Debug\SudokuCS.exe
-E:\Documents\git\sudokucs\SudokuCS\obj\Debug\SudokuCS.pdb
